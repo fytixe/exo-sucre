@@ -1,0 +1,85 @@
+
+/* ecriture*/
+@import url("https://fonts.googleapis.com/css?family=Emilys+Candy&display=swap");
+
+.ecriture{
+    font-family: sans-serif;
+}
+h1,h2{
+    font-family:  'Emilys Candy', cursive;;
+}
+.color1{
+    color: #d85a6f;
+}
+h2, p{
+    color: #7c57be;
+}
+#cadre{
+    font-size : medium;
+    background-color:#ff5e5e ;
+    color: white;
+    text-decoration: none;
+    border: 3px  #ff5e5e solid;
+    border-radius: 3px ;
+}
+ .boitedeg{
+     margin-top: 12em;
+     width: 15em;
+     height: 15em;
+     margin-left: 8em;
+     text-align: center;
+     float: left;
+    
+ }
+
+.boite{   
+    position: fixed;
+    top: 4em;
+    left: 23em;
+    height: 15em;
+    width: 32em;
+}
+.boitedeux{
+    position: fixed;
+    z-index: 1;
+    top: 19.2em;
+    left: 23em;
+    height: 15em;
+    width: 32em;
+}
+.image{
+    width: 10em;
+    height: 15em;
+    border-radius: 8px;
+
+}
+
+.imagedeux{
+    width: 10em;
+    height: 15em;
+    border-radius: 8px;
+
+}
+.bonbon{
+    position: absolute;
+    z-index: 2;
+    top: 0em;
+    left: 2.5em;    
+    height: 20px;
+    width: 2px;
+    font-weight: 20%;
+}
+.position{
+
+}
+
+
+
+
+
+
+
+
+
+
+
